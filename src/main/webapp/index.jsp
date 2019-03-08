@@ -11,6 +11,12 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <a href="/login">Login</a>
+  <br>
+  <a href="/logout">Logout</a>
+  <br>
+  <a href="/registration">Registration</a>
+  <br>
+  <a href="/guest">Guest</a>
   </body>
 </html>
